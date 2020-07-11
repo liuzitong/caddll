@@ -1,0 +1,1 @@
+copy dlls and replace config to build link to sqlite ef 
